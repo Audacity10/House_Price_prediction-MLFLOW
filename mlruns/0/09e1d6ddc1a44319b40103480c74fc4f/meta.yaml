@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/09e1d6ddc1a44319b40103480c74fc4f/artifacts
+end_time: 1730638342850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09e1d6ddc1a44319b40103480c74fc4f
+run_name: puzzled-slug-815
+run_uuid: 09e1d6ddc1a44319b40103480c74fc4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730638178397
+status: 4
+tags: []
+user_id: chirag

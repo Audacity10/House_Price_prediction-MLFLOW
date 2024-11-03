@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b5b8d754589c433b9ae78e09c65ff55a/artifacts
+end_time: 1730638118542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5b8d754589c433b9ae78e09c65ff55a
+run_name: sincere-crow-500
+run_uuid: b5b8d754589c433b9ae78e09c65ff55a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730637957307
+status: 4
+tags: []
+user_id: chirag

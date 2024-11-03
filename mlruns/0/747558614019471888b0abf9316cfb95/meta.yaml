@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/747558614019471888b0abf9316cfb95/artifacts
+end_time: 1730638816109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 747558614019471888b0abf9316cfb95
+run_name: blushing-deer-577
+run_uuid: 747558614019471888b0abf9316cfb95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730638727096
+status: 3
+tags: []
+user_id: chirag
